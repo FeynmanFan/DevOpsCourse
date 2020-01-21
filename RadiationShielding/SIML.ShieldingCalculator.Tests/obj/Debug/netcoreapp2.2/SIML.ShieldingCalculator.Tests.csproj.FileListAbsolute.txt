@@ -1,0 +1,17 @@
+C:\Projects\SIML\SIML.ShieldingCalculator.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\SIML\SIML.ShieldingCalculator.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\SIML\SIML.ShieldingCalculator.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\SIML\SIML.ShieldingCalculator.Tests\bin\Debug\netcoreapp2.2\SIML.ShieldingCalculator.Tests.deps.json
+C:\Projects\SIML\SIML.ShieldingCalculator.Tests\bin\Debug\netcoreapp2.2\SIML.ShieldingCalculator.Tests.runtimeconfig.json
+C:\Projects\SIML\SIML.ShieldingCalculator.Tests\bin\Debug\netcoreapp2.2\SIML.ShieldingCalculator.Tests.runtimeconfig.dev.json
+C:\Projects\SIML\SIML.ShieldingCalculator.Tests\bin\Debug\netcoreapp2.2\SIML.ShieldingCalculator.Tests.dll
+C:\Projects\SIML\SIML.ShieldingCalculator.Tests\bin\Debug\netcoreapp2.2\SIML.ShieldingCalculator.Tests.pdb
+C:\Projects\SIML\SIML.ShieldingCalculator.Tests\bin\Debug\netcoreapp2.2\SIML.ShieldingCalculator.dll
+C:\Projects\SIML\SIML.ShieldingCalculator.Tests\bin\Debug\netcoreapp2.2\SIML.ShieldingCalculator.pdb
+C:\Projects\SIML\SIML.ShieldingCalculator.Tests\obj\Debug\netcoreapp2.2\SIML.ShieldingCalculator.Tests.csprojAssemblyReference.cache
+C:\Projects\SIML\SIML.ShieldingCalculator.Tests\obj\Debug\netcoreapp2.2\SIML.ShieldingCalculator.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\SIML\SIML.ShieldingCalculator.Tests\obj\Debug\netcoreapp2.2\SIML.ShieldingCalculator.Tests.AssemblyInfoInputs.cache
+C:\Projects\SIML\SIML.ShieldingCalculator.Tests\obj\Debug\netcoreapp2.2\SIML.ShieldingCalculator.Tests.AssemblyInfo.cs
+C:\Projects\SIML\SIML.ShieldingCalculator.Tests\obj\Debug\netcoreapp2.2\SIML.ShieldingCalculator.Tests.csproj.CopyComplete
+C:\Projects\SIML\SIML.ShieldingCalculator.Tests\obj\Debug\netcoreapp2.2\SIML.ShieldingCalculator.Tests.dll
+C:\Projects\SIML\SIML.ShieldingCalculator.Tests\obj\Debug\netcoreapp2.2\SIML.ShieldingCalculator.Tests.pdb

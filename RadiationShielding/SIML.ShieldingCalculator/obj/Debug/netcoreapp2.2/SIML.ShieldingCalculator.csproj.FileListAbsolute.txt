@@ -1,0 +1,17 @@
+C:\Projects\SIML\SIML.ShieldingCalculator\bin\Debug\netcoreapp2.2\SIML.ShieldingCalculator.deps.json
+C:\Projects\SIML\SIML.ShieldingCalculator\bin\Debug\netcoreapp2.2\SIML.ShieldingCalculator.dll
+C:\Projects\SIML\SIML.ShieldingCalculator\bin\Debug\netcoreapp2.2\SIML.ShieldingCalculator.pdb
+C:\Projects\SIML\SIML.ShieldingCalculator\obj\Debug\netcoreapp2.2\SIML.ShieldingCalculator.csprojAssemblyReference.cache
+C:\Projects\SIML\SIML.ShieldingCalculator\obj\Debug\netcoreapp2.2\SIML.ShieldingCalculator.csproj.CoreCompileInputs.cache
+C:\Projects\SIML\SIML.ShieldingCalculator\obj\Debug\netcoreapp2.2\SIML.ShieldingCalculator.AssemblyInfoInputs.cache
+C:\Projects\SIML\SIML.ShieldingCalculator\obj\Debug\netcoreapp2.2\SIML.ShieldingCalculator.AssemblyInfo.cs
+C:\Projects\SIML\SIML.ShieldingCalculator\obj\Debug\netcoreapp2.2\SIML.ShieldingCalculator.dll
+C:\Projects\SIML\SIML.ShieldingCalculator\obj\Debug\netcoreapp2.2\SIML.ShieldingCalculator.pdb
+C:\Code\OReilly\DevOpsCourse\RadiationShielding\SIML.ShieldingCalculator\bin\Debug\netcoreapp2.2\SIML.ShieldingCalculator.deps.json
+C:\Code\OReilly\DevOpsCourse\RadiationShielding\SIML.ShieldingCalculator\bin\Debug\netcoreapp2.2\SIML.ShieldingCalculator.dll
+C:\Code\OReilly\DevOpsCourse\RadiationShielding\SIML.ShieldingCalculator\bin\Debug\netcoreapp2.2\SIML.ShieldingCalculator.pdb
+C:\Code\OReilly\DevOpsCourse\RadiationShielding\SIML.ShieldingCalculator\obj\Debug\netcoreapp2.2\SIML.ShieldingCalculator.csprojAssemblyReference.cache
+C:\Code\OReilly\DevOpsCourse\RadiationShielding\SIML.ShieldingCalculator\obj\Debug\netcoreapp2.2\SIML.ShieldingCalculator.AssemblyInfoInputs.cache
+C:\Code\OReilly\DevOpsCourse\RadiationShielding\SIML.ShieldingCalculator\obj\Debug\netcoreapp2.2\SIML.ShieldingCalculator.AssemblyInfo.cs
+C:\Code\OReilly\DevOpsCourse\RadiationShielding\SIML.ShieldingCalculator\obj\Debug\netcoreapp2.2\SIML.ShieldingCalculator.dll
+C:\Code\OReilly\DevOpsCourse\RadiationShielding\SIML.ShieldingCalculator\obj\Debug\netcoreapp2.2\SIML.ShieldingCalculator.pdb
