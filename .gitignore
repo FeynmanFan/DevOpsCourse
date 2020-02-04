@@ -352,6 +352,9 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
- .vs/
+.vs/
 /RadiationShielding/.vs/RadiationShielding/v16/Server/sqlite3
 /RadiationShielding/.vs
+
+*.suo
+obj/
