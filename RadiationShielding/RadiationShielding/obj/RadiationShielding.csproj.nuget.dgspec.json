@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\OReilly\\DevOpsCourse\\RadiationShielding\\RadiationShielding\\RadiationShielding.csproj": {}
+    "C:\\Code\\git\\DevOpsCourse\\RadiationShielding\\RadiationShielding\\RadiationShielding.csproj": {}
   },
   "projects": {
-    "C:\\Code\\OReilly\\DevOpsCourse\\RadiationShielding\\RadiationShielding\\RadiationShielding.csproj": {
+    "C:\\Code\\git\\DevOpsCourse\\RadiationShielding\\RadiationShielding\\RadiationShielding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\OReilly\\DevOpsCourse\\RadiationShielding\\RadiationShielding\\RadiationShielding.csproj",
+        "projectUniqueName": "C:\\Code\\git\\DevOpsCourse\\RadiationShielding\\RadiationShielding\\RadiationShielding.csproj",
         "projectName": "RadiationShielding",
-        "projectPath": "C:\\Code\\OReilly\\DevOpsCourse\\RadiationShielding\\RadiationShielding\\RadiationShielding.csproj",
+        "projectPath": "C:\\Code\\git\\DevOpsCourse\\RadiationShielding\\RadiationShielding\\RadiationShielding.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\OReilly\\DevOpsCourse\\RadiationShielding\\RadiationShielding\\obj\\",
+        "outputPath": "C:\\Code\\git\\DevOpsCourse\\RadiationShielding\\RadiationShielding\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Code\\OReilly\\DevOpsCourse\\RadiationShielding\\SIML.ShieldingCalculator\\SIML.ShieldingCalculator.csproj": {
-                "projectPath": "C:\\Code\\OReilly\\DevOpsCourse\\RadiationShielding\\SIML.ShieldingCalculator\\SIML.ShieldingCalculator.csproj"
+              "C:\\Code\\git\\DevOpsCourse\\RadiationShielding\\SIML.ShieldingCalculator\\SIML.ShieldingCalculator.csproj": {
+                "projectPath": "C:\\Code\\git\\DevOpsCourse\\RadiationShielding\\SIML.ShieldingCalculator\\SIML.ShieldingCalculator.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Code\\OReilly\\DevOpsCourse\\RadiationShielding\\SIML.ShieldingCalculator\\SIML.ShieldingCalculator.csproj": {
+    "C:\\Code\\git\\DevOpsCourse\\RadiationShielding\\SIML.ShieldingCalculator\\SIML.ShieldingCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\OReilly\\DevOpsCourse\\RadiationShielding\\SIML.ShieldingCalculator\\SIML.ShieldingCalculator.csproj",
+        "projectUniqueName": "C:\\Code\\git\\DevOpsCourse\\RadiationShielding\\SIML.ShieldingCalculator\\SIML.ShieldingCalculator.csproj",
         "projectName": "SIML.ShieldingCalculator",
-        "projectPath": "C:\\Code\\OReilly\\DevOpsCourse\\RadiationShielding\\SIML.ShieldingCalculator\\SIML.ShieldingCalculator.csproj",
+        "projectPath": "C:\\Code\\git\\DevOpsCourse\\RadiationShielding\\SIML.ShieldingCalculator\\SIML.ShieldingCalculator.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\OReilly\\DevOpsCourse\\RadiationShielding\\SIML.ShieldingCalculator\\obj\\",
+        "outputPath": "C:\\Code\\git\\DevOpsCourse\\RadiationShielding\\SIML.ShieldingCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
