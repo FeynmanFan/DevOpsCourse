@@ -356,5 +356,5 @@ MigrationBackup/
 /RadiationShielding/.vs/RadiationShielding/v16/Server/sqlite3
 /RadiationShielding/.vs
 
-*.suo
+**/.suo
 obj/
